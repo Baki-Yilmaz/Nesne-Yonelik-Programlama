@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nesne_Yonelik_Programlama_2.Hafta_Ödevi/1.0.0": {
+        "runtime": {
+          "Nesne_Yonelik_Programlama_2.Hafta_Ödevi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nesne_Yonelik_Programlama_2.Hafta_Ödevi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

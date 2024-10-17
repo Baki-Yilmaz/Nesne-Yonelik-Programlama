@@ -1,0 +1,14 @@
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\bin\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.exe
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\bin\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.deps.json
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\bin\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.runtimeconfig.json
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\bin\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.dll
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\bin\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.pdb
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.AssemblyInfoInputs.cache
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.AssemblyInfo.cs
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.dll
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\refint\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.dll
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.pdb
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.genruntimeconfig.cache
+C:\Users\bakiy\source\repos\Nesne_Yonelik_Programlama_2.Hafta_Ödevi\obj\Debug\net8.0\ref\Nesne_Yonelik_Programlama_2.Hafta_Ödevi.dll
