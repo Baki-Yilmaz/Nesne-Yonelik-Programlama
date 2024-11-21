@@ -1,0 +1,14 @@
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\NesneYönelikProgramlamaÖdev4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\NesneYönelikProgramlamaÖdev4.AssemblyInfoInputs.cache
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\NesneYönelikProgramlamaÖdev4.AssemblyInfo.cs
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\NesneYönelikProgramlamaÖdev4.csproj.CoreCompileInputs.cache
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\bin\Debug\net8.0\NesneYönelikProgramlamaÖdev4.exe
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\bin\Debug\net8.0\NesneYönelikProgramlamaÖdev4.deps.json
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\bin\Debug\net8.0\NesneYönelikProgramlamaÖdev4.runtimeconfig.json
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\bin\Debug\net8.0\NesneYönelikProgramlamaÖdev4.dll
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\bin\Debug\net8.0\NesneYönelikProgramlamaÖdev4.pdb
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\NesneYönelikProgramlamaÖdev4.dll
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\refint\NesneYönelikProgramlamaÖdev4.dll
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\NesneYönelikProgramlamaÖdev4.pdb
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\NesneYönelikProgramlamaÖdev4.genruntimeconfig.cache
+C:\Users\bakiy\source\repos\NesneYönelikProgramlamaÖdev4\obj\Debug\net8.0\ref\NesneYönelikProgramlamaÖdev4.dll
